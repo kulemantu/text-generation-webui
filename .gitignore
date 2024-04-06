@@ -48,3 +48,6 @@ wandb
 /docker-compose.yml
 /Dockerfile
 .env
+
+# Docker override
+docker/docker-compose.override.yaml
